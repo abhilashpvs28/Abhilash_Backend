@@ -1,0 +1,16 @@
+{
+  "name": "abhi-backend",
+  "version": "1.0.0",
+  "description": "a precise way to do backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "abhi"
+  ],
+  "author": "Abhilash",
+  "license": "ISC"
+}

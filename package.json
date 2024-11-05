@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Nodejs With Abhilash",
+  "description": "This is a video on Backend",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +9,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abhilashpvs28/Abhilash_Backend.git"
+    
   },
   "keywords": [
-    "javascript",
-    "Nodejs"
+    "Javascript"
   ],
   "author": "Abhilash",
   "license": "ISC",

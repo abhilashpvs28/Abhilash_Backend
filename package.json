@@ -4,12 +4,12 @@
   "description": "This is a video on Backend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon src/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abhilashpvs28/Abhilash_Backend.git"
+    
   },
   "keywords": [
     "Javascript"
@@ -19,9 +19,5 @@
   "bugs": {
     "url": "https://github.com/abhilashpvs28/Abhilash_Backend/issues"
   },
-  "homepage": "https://github.com/abhilashpvs28/Abhilash_Backend#readme",
-  "devDependencies": {
-    "nodemon": "^3.1.7",
-    "prettier": "^3.3.3"
-  }
+  "homepage": "https://github.com/abhilashpvs28/Abhilash_Backend#readme"
 }

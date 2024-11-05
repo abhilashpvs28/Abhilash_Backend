@@ -1,16 +1,23 @@
 {
-  "name": "abhi-backend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "a precise way to do backend",
+  "description": "Nodejs With Abhilash",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhilashpvs28/Abhilash_Backend.git"
+  },
   "keywords": [
     "javascript",
-    "backend",
-    "abhi"
+    "Nodejs"
   ],
   "author": "Abhilash",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhilashpvs28/Abhilash_Backend/issues"
+  },
+  "homepage": "https://github.com/abhilashpvs28/Abhilash_Backend#readme"
 }
